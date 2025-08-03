@@ -23,7 +23,7 @@
 ```bash
 git config --global user.email "seu-email@exemplo.com"
 git config --global user.name "Seu Nome"
-```
+````
 
 ---
 
