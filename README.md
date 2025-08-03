@@ -16,14 +16,14 @@
 - [🔧 Comandos Úteis Extras](#-comandos-úteis-extras)
 - [📚 Fluxo de Trabalho Básico](#-fluxo-de-trabalho-básico)
 - [⚠️ Dicas Importantes](#️-dicas-importantes)
-
+````
 ---
 
 ## ⚙️ Configuração Inicial
 ```bash
 git config --global user.email "seu-email@exemplo.com"
 git config --global user.name "Seu Nome"
-````
+```
 
 ---
 
